@@ -1,8 +1,22 @@
 # 是,导师(Yes, Advisor)
 
+![Yes Minister](https://upload.wikimedia.org/wikipedia/en/2/2f/Administrative_Affairs.jpg)
+
+> 半步英剧治天下.
+
 一个科研笑话集.文体上不幸与某部英国电视剧雷同,纯属巧合.
 
 全部内容均为虚构:在事实上是假的,在统计上是真的.
+
+---
+
+> 科研是世界上倒数第二无聊的事情.
+>
+> 那第一呢?
+>
+> 做科研.
+
+---
 
 ## 仓库结构
 
@@ -28,7 +42,7 @@
 │   ├── 结尾-核心是研究生要感恩.md
 │   ├── 结尾-下周组会读后感.md
 │   └── 结尾-战略定力.md
-├── .agents/skills/    # 让 AI 继续写这个风格的 skill
+├── .agents/skills/    # 科研Joker:让 AI 继续写这个风格的 skill
 └── LICENSE            # MIT
 ```
 
