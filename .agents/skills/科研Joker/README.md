@@ -224,7 +224,7 @@ npx skills add SingularGuyLeBorn/yes-advisor
 └── SKILL.md      # 可直接安装使用的完整规范
 ```
 
-本体仓库:[SingularGuyLeBorn/yes-advisor](https://github.com/SingularGuyLeBorn/yes-advisor),含九篇正篇和九份开头结尾素材.
+本体仓库:[SingularGuyLeBorn/yes-advisor](https://github.com/SingularGuyLeBorn/yes-advisor),含九篇正篇和备用公文模板库.
 
 ---
 
