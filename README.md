@@ -92,3 +92,18 @@ cp -r yes-advisor/.agents/skills/科研Joker <你的 runtime 的 skills 目录>
 ---
 
 <div align="center">
+
+<br>
+
+| 「这个世界太他妈的扯淡了,但是也不是一无是处.」 |
+|:---:|
+
+<br>
+
+<sub>本项目不存在.如你认为自己看到过本项目,请参照结题报告处理.</sub>
+
+<br>
+
+MIT License © [SingularGuyLeBorn](https://github.com/SingularGuyLeBorn)
+
+</div>
