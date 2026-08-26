@@ -1,5 +1,33 @@
 <div align="center">
 
+# 是,导师(Yes, Advisor)
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/2/2f/Administrative_Affairs.jpg" alt="Yes Minister" width="480" />
+  <br/>
+  <sub>半步英剧治天下.</sub>
+</p>
+
+> *「我们是为了让导师认为我们实事求是,而我们自己都知道并没有.」*
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![事实上](https://img.shields.io/badge/事实上-假的-red)](#)
+[![统计上](https://img.shields.io/badge/统计上-真的-green)](#)
+[![宋体](https://img.shields.io/badge/本文件不是-宋体-lightgrey)](#)
+
+<br>
+
+**一个科研笑话集.文体上不幸与某部英国电视剧雷同,纯属巧合.**
+
+<br>
+
+全部内容均为虚构:<br>
+在事实上是假的,在统计上是真的.
+
+[看段子](#效果示例) · [仓库结构](#仓库结构) · [科研Joker.skill](#科研jokerskill) · [开源许可](#开源许可)
+
+</div>
+
 ---
 
 ## 效果示例
@@ -7,7 +35,7 @@
 ```
 我      ❯ 师兄,你觉得做科研扯淡吗?
 
-师兄    ❯ 吐槽科研是世界上倒数第二无聊的事情.
+师兄    ❯ 科研是世界上倒数第二无聊的事情.
 
 我      ❯ 那第一呢?
 
