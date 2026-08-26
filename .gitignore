@@ -1,0 +1,4 @@
+# 本仓库没有需要忽略的文件
+# 这里的意思是：我们连 .gitignore 都是诚实的
+.DS_Store
+Thumbs.db
